@@ -26,5 +26,5 @@ hide:
 ## Что ожидается от слушателя
 - Для каждой лабораторной работы создаётся отдельный репозиторий с исходным кодом и конфигурацией
 - Результаты оформляются в отчётах <code>gistup</code> с выводами инструментов и пояснениями к использованным командам
-
+https://drive.google.com/file/d/1IML1ughT080weOKltrPCEr5cJloCI2Yh/view?usp=sharing
 ![Логотип](artifacts/assets/logotypemd.jpg)
